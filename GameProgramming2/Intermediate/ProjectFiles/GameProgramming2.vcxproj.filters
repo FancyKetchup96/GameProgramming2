@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GameProgramming2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{084CBAA3-D53E-4A85-8C4C-ED12B0572395}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GameProgramming2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GameProgramming2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0B6B55B3-7A35-49B7-BFB0-07A920677A97}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GameProgramming2">
+			<UniqueIdentifier>{E7A1DCDD-B6AA-4A12-93B6-2A8E5F0AEDD4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GameProgramming2\GameProgramming2.Build.cs">
+			<Filter>Source\GameProgramming2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GameProgramming2\GameProgramming2.cpp">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProgramming2\GameProgramming2.h">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProgramming2\GameProgramming2Character.cpp">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProgramming2\GameProgramming2Character.h">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProgramming2\GameProgramming2GameMode.cpp">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProgramming2\GameProgramming2GameMode.h">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProgramming2\GameProgramming2HUD.cpp">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProgramming2\GameProgramming2HUD.h">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GameProgramming2\GameProgramming2Projectile.cpp">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GameProgramming2\GameProgramming2Projectile.h">
+			<Filter>Source\GameProgramming2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Source\GameProgramming2\GameProgramming2.Build.cs
+C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Source\GameProgramming2.Target.cs
+C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Source\GameProgramming2Editor.Target.cs

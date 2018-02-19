@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameProgramming2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2Character.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2GameMode.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2HUD.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2Projectile.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2.init.gen.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2Character.gen.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2GameMode.gen.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2HUD.gen.cpp.obj"
+"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\GameProgramming2Projectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\GameProgramming2\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Kevin\Documents\GitHub\GameProgramming2\GameProgramming2\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GameProgramming2.lib"
